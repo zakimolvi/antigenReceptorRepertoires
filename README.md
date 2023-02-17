@@ -12,10 +12,10 @@ Analysis of bulk and single-cell TCR and BCR libraries
 
 `readStats.py`: Determines for single-cell plateseq experiment, such as FACS-sorted single cells, the clonal read count per well.
 <p align="center">
-<img="well_counts.png" height=50% width=50>
+<img src="well_counts.png" height=50% width=50>
 </p>
 
 `blankProportion.py`: determines the proportion of blank reads as a function of clone read count. Useful for determining the optimal read count cutoff.
 <p align="center">
-<img="proportionBlank_vs_reads.png" height=50% width=50>
+<img src="proportionBlank_vs_reads.png" height=50% width=50>
 </p>
